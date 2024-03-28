@@ -5,8 +5,8 @@ User-friendly Interface: The game features a straightforward interface, making i
 
 Interactive Gameplay: Engage in thrilling matches of Stone, Paper, Scissors against the computer. The game utilizes randomization for the computer's choices, ensuring each round is unpredictable and exciting.
 
-Simple Rules: The rules of the game are clear and concise, making it accessible to players of all skill levels. Choose between three options: Stone, Paper, or Scissors, and aim to outsmart your opponent.
+Simple Rules: The rules of the game are clear and concise, making it accessible to players of all skill levels. Choose between three options: Stone, Paper, or Scissors, and aim to outsmart your computer.
 
-Score Tracking: Keep track of your wins, losses, and ties throughout your gaming session. Compete against yourself or challenge friends to see who can achieve the highest score.
+Score Tracking: Keep track of your wins, losses, and ties throughout your gaming session. Compete against your computer to see who can achieve the highest score.
 
 Author:-->> Gurjot Singh
